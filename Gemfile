@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-
+gem 'devise'
+gem 'draper'
+gem 'simple_form'
+gem 'state_machine'
+gem 'factory_girl_rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
 # Use mysql as the database for Active Record
